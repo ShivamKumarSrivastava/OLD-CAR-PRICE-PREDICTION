@@ -1,0 +1,15 @@
+# these are for EDA
+numpy
+matplotlib
+pandas
+seaborn
+
+# these are for modeling
+xgboost
+scikit-learn
+
+# this is for saving the model
+joblib
+
+# this is for deploying the model
+streamlit
