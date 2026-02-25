@@ -1,8 +1,9 @@
 # these are for EDA
-numpy
-matplotlib
+
+# numpy
+# matplotlib
 pandas
-seaborn
+# seaborn
 
 # these are for modeling
 xgboost
@@ -13,4 +14,4 @@ joblib
 
 # this is for deploying the model
 streamlit
-altair
+altair==4.2.2
