@@ -13,4 +13,4 @@ joblib
 
 # this is for deploying the model
 streamlit
-altair==4.2.2
+altair
