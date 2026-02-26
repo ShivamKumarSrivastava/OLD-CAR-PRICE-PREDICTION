@@ -20,7 +20,7 @@ This project includes complete ML workflow:
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```
 OLD-CAR-PRICE-PREDICTION/
@@ -51,7 +51,7 @@ OLD-CAR-PRICE-PREDICTION/
 
 ---
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 
 Predict the selling price of a used car using machine learning techniques based on:
 
@@ -69,7 +69,7 @@ Predict the selling price of a used car using machine learning techniques based 
 
 ---
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 - Python
 - Pandas
@@ -82,19 +82,19 @@ Predict the selling price of a used car using machine learning techniques based 
 
 ---
 
-🏗️ ML Pipeline
+## 🏗️ ML Pipeline
 
-1️⃣ Exploratory Data Analysis (EDA.ipynb)
-2️⃣ Feature Scaling & Encoding
-3️⃣ Manual categorical mapping
-4️⃣ Model training
-5️⃣ Model evaluation
-6️⃣ Model saved as .pkl file
-7️⃣ Streamlit deployment
+1. Exploratory Data Analysis (EDA.ipynb)
+2. Feature Scaling & Encoding
+3. Manual Categorical Mapping
+4. Model Training
+5. Model Evaluation
+6. Model Saved as `.pkl` File
+7. Streamlit Deployment
 
 ---
 
-🎯 Streamlit Application Features
+## 🎯 Streamlit Application Features
 
 - Interactive user interface
 - Dynamic Make → Model selection
@@ -104,7 +104,7 @@ Predict the selling price of a used car using machine learning techniques based 
 
 ---
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 
 ```
 git clone https://github.com/ShivamKumarSrivastava/OLD-CAR-PRICE-PREDICTION.git
@@ -118,7 +118,7 @@ streamlit run Streamlit_App.py
 
 ---
 
-📊 Model Output
+## 📊 Model Output
 
 The model predicts:
 Estimated resale price of the car
@@ -127,7 +127,7 @@ Notebook/model.ipynb
 
 ---
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 - Add XGBoost / Gradient Boosting
 - Deploy on Streamlit Cloud
@@ -137,7 +137,7 @@ Notebook/model.ipynb
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Shivam Kumar
 Machine Learning & Data Science Enthusiast
